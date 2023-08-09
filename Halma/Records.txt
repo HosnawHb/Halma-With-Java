@@ -1,0 +1,11 @@
+player score
+a 5
+b 4
+c 10
+d 24
+Hosna 20bb 6
+b 7
+b 6
+b 6
+a 6
+b 5
